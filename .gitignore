@@ -18,3 +18,7 @@ build/
 *.egg
 
 .DS_Store
+
+# models
+*.sav
+*.bin

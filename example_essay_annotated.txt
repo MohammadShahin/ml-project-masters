@@ -1,0 +1,77 @@
+Text: when we watch movies or dramas, some of us like to see good people have a good ending and bad people are punished.
+Prediction: NON-ARG
+
+Text: while there are also some people who do not like this.
+Prediction: NON-ARG
+
+Text: personally, i prefer to see good people get rewarded.
+Prediction: NON-ARG
+
+Text: however, if the good people always get an happy ending, i don’t think it’s proper.
+Prediction: CLAIM
+
+Text: first, if all the story end up in the same way, it will be boring.
+Prediction: PREMISE
+
+Text: if good people always win, we can guess the ending of the movies or dramas.
+Prediction: PREMISE
+
+Text: then we will feel less interested in them.
+Prediction: PREMISE
+
+Text: but if the good people are not always rewarded, we will try to finish the movie or dramas to find out the end of the story.
+Prediction: PREMISE
+
+Text: for example, hollywood stories usually have a happy ending like a hero beats a crime and get a girl.
+Prediction: PREMISE
+
+Text: but now many people, including me, have been tired with it.
+Prediction: PREMISE
+
+Text: i don’t want to see the same kind of ending again and again.
+Prediction: PREMISE
+
+Text: so we can’t always let good people be rewarded in movies or tv programs.
+Prediction: CLAIM
+
+Text: even in the real world, good people can get a bad ending sometimes.
+Prediction: PREMISE
+
+Text: and i think it happen more often in the real world than in those movies.
+Prediction: PREMISE
+
+Text: so if children always watch the tv programs that good people get rewarded, they may think it will be true in the real world.
+Prediction: CLAIM
+
+Text: they will be misleading by those movies.
+Prediction: PREMISE
+
+Text: and they may act like good people in order to get reward.
+Prediction: PREMISE
+
+Text: once they find the good people are not always get rewarded, they may feel upset and not to be a good person.
+Prediction: PREMISE
+
+Text: but in fact, the good people do good things no matter the ending is good or not.
+Prediction: NON-ARG
+
+Text: so we should tell this to the young children to avoid the misunderstanding.
+Prediction: CLAIM
+
+Text: in fact, those good endings sometimes are helpful.
+Prediction: PREMISE
+
+Text: some people may be encouraged to do good things.
+Prediction: PREMISE
+
+Text: but like i said, this kind of behavior won’t last long, because someday they will realize the truth.
+Prediction: PREMISE
+
+Text: so i suggest we should show people the truth in the stories.
+Prediction: CLAIM
+
+Text: and if they can, they will be good people no matter how the story ends.
+Prediction: PREMISE
+
+Text: based on my arguments above, i think movies and tv programs should present different stories in which good people get reward or get nothing.
+Prediction: CLAIM
